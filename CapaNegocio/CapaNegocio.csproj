@@ -59,7 +59,7 @@
       <Project>{12ca7be7-e8dc-41f8-8c21-c9bc6e1c102f}</Project>
       <Name>CapaEntidad</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ClassLibrary1\CapaDatos.csproj">
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
       <Project>{09836c0c-09cc-4c99-bacd-5319f3bc9bbd}</Project>
       <Name>CapaDatos</Name>
     </ProjectReference>
